@@ -1,3 +1,4 @@
+// // Interfaces
 interface MajorCredits {
     credits: number;
     brand: 'major';
@@ -8,6 +9,8 @@ interface MajorCredits {
     brand: 'minor';
   }
   
+  //  Functions
+
   function sumMajorCredits(subject1: MajorCredits, subject2: MajorCredits) {
     return subject1.credits + subject2.credits
   }
