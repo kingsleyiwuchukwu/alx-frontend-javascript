@@ -1,6 +1,6 @@
 # Project Title
 
-This project demonstrates the usage of TypeScript.
+This project demonstrate the usage of TypeScript.
 
 ## Installation
 
